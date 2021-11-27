@@ -1,4 +1,4 @@
-# NostalgiaForInfinity
+# NostalgiaForInfinitY
 Trading strategy for the [Freqtrade](https://www.freqtrade.io) crypto bot
 
 ## Clone The Repository
